@@ -1,0 +1,56 @@
+body {
+	background-repeat: repeat;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.jumbotron {
+	background-color: rgb(81, 137, 172);
+	padding-top: 15px;
+	height: 200px;
+	color: white;
+	font-size: 60px;
+}
+
+.panel  .panel-heading {
+	background-color: rgb(81, 137, 172);
+    padding: 5px 0px 4px 10px;
+}
+
+.panel-title {
+	font-size: 18px;
+    color: white;
+    text-align: center;
+    
+}
+
+.panel  {
+	min-width: 630px;
+}
+
+input {
+	margin-top: 10px;
+	background-color: white;
+}
+
+form { 
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.table-striped {
+	text-align: center;
+	font-size: 16px;
+	background-color: white;
+}
+
+th {
+	text-align: center;
+	font-style: bold;
+	font-size: 16px;
+}
+
+.btn {
+    background-color: rgb(81, 137, 172);
+}
+
