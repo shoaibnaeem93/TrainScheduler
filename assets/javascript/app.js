@@ -52,7 +52,7 @@ $("#addTrainBtn").on("click", function(){
 
 database.ref().on("child_added", function(childSnapshot){
 	
-	// *** QUESTION: What is childSnapshot and prevChild doing? Can it be named anything else?***
+	
 	
 	console.log("Child Snapshot Value: " + childSnapshot.val());
 
